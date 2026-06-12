@@ -41,7 +41,8 @@ Proiect-Restful-Booker-API-Tests/
 │
 ├── tests/
 │   └── test_restful_booking.py
-│
+│   └── negative_test_restful_booking.py
+│ 
 ├── utils/
 │   └── logger.py
 │
