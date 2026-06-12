@@ -1,15 +1,24 @@
 import pytest
+import requests
 from api.create_token import create_token
+from config import BASE_URL
 
 
 @pytest.fixture(scope="session")
 def base_url():
-    return "https://restful-booker.herokuapp.com"
+    return BASE_URL
 
 
 @pytest.fixture(scope="session")
 def auth_token():
     return create_token()
+
+
+@pytest.fixture(scope="session")
+def api_session():
+    session = requests.Session()
+    yield session
+    session.close()
 
 
 @pytest.fixture

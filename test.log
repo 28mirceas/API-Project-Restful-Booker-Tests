@@ -1,0 +1,108 @@
+2026-06-12 08:43:48,818 - INFO - Creating booking
+2026-06-12 08:43:48,949 - INFO - Response status code: 200
+2026-06-12 08:43:48,949 - INFO - Booking ID created: 3046
+2026-06-12 08:43:49,075 - INFO - Getting booking with id 3048
+2026-06-12 08:43:49,207 - INFO - Response status code: 200
+2026-06-12 08:43:49,351 - INFO - Updating booking 3050
+2026-06-12 08:43:49,480 - INFO - Response status code: 200
+2026-06-12 08:43:49,480 - INFO - Firstname changed to John
+2026-06-12 08:43:49,610 - INFO - Partially updating booking 3054
+2026-06-12 08:43:49,755 - INFO - Response status code: 200
+2026-06-12 08:43:49,884 - INFO - Deleting booking 3059
+2026-06-12 08:43:50,011 - INFO - Response status code: 201
+2026-06-12 13:21:12,017 - INFO - Creating booking
+2026-06-12 13:21:12,147 - INFO - Response status code: 200
+2026-06-12 13:21:12,156 - INFO - Booking ID created: 259
+2026-06-12 13:21:12,274 - INFO - Getting booking with id 262
+2026-06-12 13:21:12,403 - INFO - Response status code: 200
+2026-06-12 13:21:12,536 - INFO - Updating booking 265
+2026-06-12 13:21:12,647 - INFO - Response status code: 200
+2026-06-12 13:21:12,647 - INFO - Firstname changed to John
+2026-06-12 13:21:12,776 - INFO - Partially updating booking 269
+2026-06-12 13:21:12,905 - INFO - Response status code: 200
+2026-06-12 13:21:13,037 - INFO - Deleting booking 272
+2026-06-12 13:21:13,165 - INFO - Response status code: 201
+2026-06-12 13:22:22,134 - INFO - Creating booking
+2026-06-12 13:22:22,269 - INFO - Response status code: 200
+2026-06-12 13:22:22,269 - INFO - Booking ID created: 860
+2026-06-12 13:22:22,407 - INFO - Getting booking with id 862
+2026-06-12 13:22:22,541 - INFO - Response status code: 200
+2026-06-12 13:22:22,676 - INFO - Updating booking 866
+2026-06-12 13:22:22,809 - INFO - Response status code: 200
+2026-06-12 13:22:22,809 - INFO - Firstname changed to John
+2026-06-12 13:22:22,940 - INFO - Partially updating booking 868
+2026-06-12 13:22:23,069 - INFO - Response status code: 200
+2026-06-12 13:22:23,200 - INFO - Deleting booking 871
+2026-06-12 13:22:23,331 - INFO - Response status code: 201
+2026-06-12 17:27:03,244 - INFO - Creating booking
+2026-06-12 17:27:03,394 - INFO - Response status code: 200
+2026-06-12 17:27:03,394 - INFO - Booking ID created: 3387
+2026-06-12 17:27:03,539 - INFO - Getting booking with id 3389
+2026-06-12 17:27:03,667 - INFO - Response status code: 200
+2026-06-12 17:27:03,797 - INFO - Updating booking 3391
+2026-06-12 17:27:03,927 - INFO - Response status code: 200
+2026-06-12 17:27:03,927 - INFO - Firstname changed to John
+2026-06-12 17:27:04,056 - INFO - Partially updating booking 3393
+2026-06-12 17:27:04,185 - INFO - Response status code: 200
+2026-06-12 17:27:04,319 - INFO - Deleting booking 3396
+2026-06-12 17:27:04,448 - INFO - Response status code: 201
+2026-06-12 17:31:38,333 - INFO - Creating booking
+2026-06-12 17:31:38,461 - INFO - Response status code: 200
+2026-06-12 17:31:38,461 - INFO - Booking ID created: 361
+2026-06-12 17:31:38,603 - INFO - Getting booking with id 363
+2026-06-12 17:31:38,731 - INFO - Response status code: 200
+2026-06-12 17:31:38,862 - INFO - Updating booking 365
+2026-06-12 17:31:38,990 - INFO - Response status code: 200
+2026-06-12 17:31:38,990 - INFO - Firstname changed to John
+2026-06-12 17:31:39,121 - INFO - Partially updating booking 367
+2026-06-12 17:31:39,254 - INFO - Response status code: 200
+2026-06-12 17:31:39,396 - INFO - Deleting booking 370
+2026-06-12 17:31:39,526 - INFO - Response status code: 201
+2026-06-12 17:33:08,600 - INFO - Creating booking
+2026-06-12 17:33:08,727 - INFO - Response status code: 200
+2026-06-12 17:33:08,727 - INFO - Booking ID created: 1127
+2026-06-12 17:33:08,853 - INFO - Getting booking with id 1130
+2026-06-12 17:33:08,986 - INFO - Response status code: 200
+2026-06-12 17:33:09,126 - INFO - Updating booking 1133
+2026-06-12 17:33:09,256 - INFO - Response status code: 200
+2026-06-12 17:33:09,256 - INFO - Firstname changed to John
+2026-06-12 17:33:09,383 - INFO - Partially updating booking 1136
+2026-06-12 17:33:09,527 - INFO - Response status code: 200
+2026-06-12 17:33:09,657 - INFO - Deleting booking 1139
+2026-06-12 17:33:09,803 - INFO - Response status code: 201
+2026-06-12 17:35:31,491 - INFO - Creating booking
+2026-06-12 17:35:31,617 - INFO - Response status code: 200
+2026-06-12 17:35:31,617 - INFO - Booking ID created: 2356
+2026-06-12 17:35:31,743 - INFO - Getting booking with id 2358
+2026-06-12 17:35:31,874 - INFO - Response status code: 200
+2026-06-12 17:35:32,016 - INFO - Updating booking 2361
+2026-06-12 17:35:32,146 - INFO - Response status code: 200
+2026-06-12 17:35:32,146 - INFO - Firstname changed to John
+2026-06-12 17:35:32,280 - INFO - Partially updating booking 2364
+2026-06-12 17:35:32,406 - INFO - Response status code: 200
+2026-06-12 17:35:32,546 - INFO - Deleting booking 2368
+2026-06-12 17:35:32,670 - INFO - Response status code: 201
+2026-06-12 17:37:40,119 - INFO - Creating booking
+2026-06-12 17:37:40,248 - INFO - Response status code: 200
+2026-06-12 17:37:40,248 - INFO - Booking ID created: 3437
+2026-06-12 17:37:40,376 - INFO - Getting booking with id 3439
+2026-06-12 17:37:40,507 - INFO - Response status code: 200
+2026-06-12 17:37:40,636 - INFO - Updating booking 3443
+2026-06-12 17:37:40,752 - INFO - Response status code: 200
+2026-06-12 17:37:40,752 - INFO - Firstname changed to John
+2026-06-12 17:37:40,892 - INFO - Partially updating booking 3446
+2026-06-12 17:37:41,019 - INFO - Response status code: 200
+2026-06-12 17:37:41,147 - INFO - Deleting booking 3451
+2026-06-12 17:37:41,276 - INFO - Response status code: 201
+2026-06-12 18:00:58,030 - INFO - Creating booking
+2026-06-12 18:00:58,154 - INFO - Response status code: 200
+2026-06-12 18:00:58,154 - INFO - Booking ID created: 5304
+2026-06-12 18:00:58,283 - INFO - Getting booking with id 5307
+2026-06-12 18:00:58,409 - INFO - Response status code: 200
+2026-06-12 18:00:58,543 - INFO - Updating booking 5310
+2026-06-12 18:00:58,672 - INFO - Response status code: 200
+2026-06-12 18:00:58,672 - INFO - Firstname changed to John
+2026-06-12 18:00:58,802 - INFO - Partially updating booking 5313
+2026-06-12 18:00:58,932 - INFO - Response status code: 200
+2026-06-12 18:00:59,068 - INFO - Deleting booking 5317
+2026-06-12 18:00:59,194 - INFO - Response status code: 201
