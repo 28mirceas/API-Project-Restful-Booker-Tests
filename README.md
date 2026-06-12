@@ -1,5 +1,5 @@
 # Restful Booker API – Automated Testing (Python)
-
+![CI](https://github.com/28mirceas/API-Project-Restful-Booker-Tests /actions/workflows/api-tests.yml/badge.svg)
 ## Project Overview
 This project contains automated API tests for the Restful Booker application (public demo API).
 The tests are implemented in Python, using Pytest and Requests, and cover positive, negative, and edge case scenarios.
